@@ -1,0 +1,1103 @@
+user_input,intent
+What is Machine Learning?,AI_ML
+Can you explain neural networks to a beginner?,AI_ML
+What is the difference between supervised and unsupervised learning?,AI_ML
+How do computers learn from data?,AI_ML
+What does deep learning mean?,AI_ML
+What is a model in artificial intelligence?,AI_ML
+How do self-driving cars use AI?,AI_ML
+What is reinforcement learning with an example?,AI_ML
+Why is Python preferred for artificial intelligence?,AI_ML
+What is the full form of NLP in AI?,AI_ML
+Can you give an example of computer vision?,AI_ML
+What is a training dataset?,AI_ML
+How does ChatGPT generate text?,AI_ML
+What is a popular algorithm for classification?,AI_ML
+What are weights and biases in ML?,AI_ML
+What does over-fitting mean in machine learning?,AI_ML
+What is an activation function?,AI_ML
+How do recommendation systems work on Netflix?,AI_ML
+What is the purpose of a loss function?,AI_ML
+What is generative AI?,AI_ML
+What is the difference between AI and ML?,AI_ML
+How does image recognition work?,AI_ML
+What is a decision tree in machine learning?,AI_ML
+What is transfer learning?,AI_ML
+Why do we need a test dataset?,AI_ML
+What is the role of an epoch in training?,AI_ML
+What is a convolutional neural network?,AI_ML
+How do voice assistants understand us?,AI_ML
+What is feature engineering?,AI_ML
+What does a linear regression model do?,AI_ML
+What is the Turing test?,AI_ML
+What is clustering in machine learning?,AI_ML
+How do LLMs work?,AI_ML
+What is a confusion matrix used for?,AI_ML
+What is backpropagation?,AI_ML
+What is gradient descent?,AI_ML
+What are hyperparameters?,AI_ML
+Can AI think like humans?,AI_ML
+What is an example of a regression problem?,AI_ML
+How do spam filters use machine learning?,AI_ML
+What is natural language processing?,AI_ML
+What is a random forest model?,AI_ML
+Why is data preprocessing important in ML?,AI_ML
+What is the bias-variance tradeoff?,AI_ML
+What are tokens in large language models?,AI_ML
+What is computer vision used for in daily life?,AI_ML
+What does fine-tuning a model mean?,AI_ML
+What is artificial general intelligence?,AI_ML
+How do we measure the accuracy of an ML model?,AI_ML
+What is an underfitted model?,AI_ML
+What is a variable in programming?,Programming
+How do I write a comment in Python?,Programming
+What is the difference between a list and a tuple?,Programming
+How do you declare a function in JavaScript?,Programming
+What does an if-else statement do?,Programming
+What is a loop in coding?,Programming
+What is the difference between let and const?,Programming
+How do I print text to the console in Java?,Programming
+What is an array index?,Programming
+What does HTML stand for?,Programming
+How do I create a class in C++?,Programming
+What is the purpose of a return statement?,Programming
+What is an API?,Programming
+How do I fix a syntax error?,Programming
+What is a string in programming?,Programming
+What is the difference between public and private variables?,Programming
+How does a while loop work?,Programming
+What is an object in object-oriented programming?,Programming
+How do you merge code in Git?,Programming
+What is a dictionary in Python?,Programming
+Why do we use CSS?,Programming
+What is the purpose of a framework like React?,Programming
+How do I convert a string to an integer?,Programming
+What does debugging mean?,Programming
+What is a boolean data type?,Programming
+How do you pass arguments to a function?,Programming
+What is the difference between == and ===?,Programming
+How do I open a file in Python?,Programming
+What is a database query?,Programming
+What does the term open-source mean?,Programming
+How do I install a package using pip?,Programming
+What is an exception in coding?,Programming
+What is a global variable?,Programming
+How do you write a for loop?,Programming
+What is a memory leak?,Programming
+What is the main function in C?,Programming
+How do I concatenate two strings?,Programming
+What is the difference between frontend and backend?,Programming
+What is a compiler?,Programming
+How do I create a JSON object?,Programming
+What is recursion in programming?,Programming
+What does an absolute path mean?,Programming
+How do I comment out multiple lines?,Programming
+What is a null pointer exception?,Programming
+What is SQL used for?,Programming
+How do you define an interface?,Programming
+What is code indentation?,Programming
+What is a constructor in OOP?,Programming
+How do I check the length of an array?,Programming
+What is the difference between local and global scope?,Programming
+What is Data Science in simple terms?,Data_Science
+What does a data scientist do?,Data_Science
+What is the difference between data science and data analytics?,Data_Science
+What is a dataframe?,Data_Science
+How do you handle missing data in a dataset?,Data_Science
+What is exploratory data analysis?,Data_Science
+Why do we use Pandas in Python?,Data_Science
+What is a histogram used for?,Data_Science
+What is the difference between mean and median?,Data_Science
+What is data cleaning?,Data_Science
+How do you find outliers in data?,Data_Science
+What is a scatter plot?,Data_Science
+What is the purpose of data visualization?,Data_Science
+What is standard deviation?,Data_Science
+How do you use SQL for data analysis?,Data_Science
+What is a correlation coefficient?,Data_Science
+What is the difference between structured and unstructured data?,Data_Science
+Why do we normalize data?,Data_Science
+What is Tableau used for?,Data_Science
+What is a feature in a dataset?,Data_Science
+How do you read a CSV file in Python?,Data_Science
+What is the purpose of a box plot?,Data_Science
+What is a population versus a sample?,Data_Science
+What is time series analysis?,Data_Science
+What is Power BI?,Data_Science
+How do you group data in SQL?,Data_Science
+What is NumPy used for?,Data_Science
+What is a normal distribution?,Data_Science
+What is A/B testing?,Data_Science
+How do you handle categorical data?,Data_Science
+What is data scraping?,Data_Science
+What is the difference between qualitative and quantitative data?,Data_Science
+What is a bar chart?,Data_Science
+What is predictive analytics?,Data_Science
+Why is domain knowledge important in data science?,Data_Science
+What is data aggregation?,Data_Science
+What is a pivot table?,Data_Science
+What is the definition of big data?,Data_Science
+What is a correlation matrix?,Data_Science
+How do you merge two dataframes?,Data_Science
+What is the interquartile range?,Data_Science
+What does variance mean in statistics?,Data_Science
+What is a data pipeline?,Data_Science
+What is the purpose of Matplotlib?,Data_Science
+How do you sample data randomly?,Data_Science
+What is a heatmap?,Data_Science
+What is data engineering?,Data_Science
+What is metadata?,Data_Science
+Why do we use Seaborn?,Data_Science
+What is a percentile?,Data_Science
+What is cloud computing?,Technology
+How does the internet work?,Technology
+What is an operating system?,Technology
+What is the difference between RAM and ROM?,Technology
+What does 5G mean?,Technology
+What is cybersecurity?,Technology
+How does a router work?,Technology
+What is an IP address?,Technology
+What is the purpose of a firewall?,Technology
+What is blockchain technology?,Technology
+What is cryptocurrency?,Technology
+How does a hard drive store data?,Technology
+What is the Internet of Things?,Technology
+What is a server?,Technology
+What is the difference between HTTP and HTTPS?,Technology
+What does CPU stand for?,Technology
+What is malware?,Technology
+How does phishing work?,Technology
+What is a VPN used for?,Technology
+What is open-source software?,Technology
+What is cache memory?,Technology
+How does Bluetooth connect devices?,Technology
+What is a domain name?,Technology
+What is the role of a motherboard?,Technology
+What is two-factor authentication?,Technology
+What is virtual reality?,Technology
+What is augmented reality?,Technology
+What is SaaS?,Technology
+How does a solid-state drive differ from a hard drive?,Technology
+What is information technology?,Technology
+What is a computer network?,Technology
+How does encryption protect data?,Technology
+What is quantum computing?,Technology
+What is a database management system?,Technology
+What does BIOS stand for?,Technology
+What is a URL?,Technology
+How do smart devices communicate?,Technology
+What is the Linux operating system?,Technology
+What is a cookie on a website?,Technology
+What is network bandwidth?,Technology
+What is a data center?,Technology
+How does Wi-Fi work?,Technology
+What is social engineering in cyber security?,Technology
+What is digital transformation?,Technology
+What is a software patch?,Technology
+What is the purpose of a graphics card?,Technology
+What is metadata in technology?,Technology
+What is a proxy server?,Technology
+What does UI and UX design mean?,Technology
+What is edge computing?,Technology
+How do I choose the right career path?,Career_Guidance
+What skills are needed to become a software engineer?,Career_Guidance
+Is a computer science degree necessary for coding?,Career_Guidance
+What does a product manager do?,Career_Guidance
+How can I switch my career to data science?,Career_Guidance
+What is the average salary of an ML engineer?,Career_Guidance
+Should I learn Python or Java first?,Career_Guidance
+What jobs can I get with a math degree?,Career_Guidance
+How do I build a portfolio as a beginner?,Career_Guidance
+What are the highest paying jobs in tech?,Career_Guidance
+How do I get an internship with no experience?,Career_Guidance
+What is the career path for a data analyst?,Career_Guidance
+Is web development still a good career?,Career_Guidance
+How do I transition from QA to development?,Career_Guidance
+What soft skills are important for engineers?,Career_Guidance
+Should I become a generalist or a specialist?,Career_Guidance
+What does a cloud architect do?,Career_Guidance
+How do I find a mentor in tech?,Career_Guidance
+Is remote work common for programmers?,Career_Guidance
+What are the duties of a database administrator?,Career_Guidance
+How do I network effectively on LinkedIn?,Career_Guidance
+What certifications are good for cybersecurity?,Career_Guidance
+Should I go to a coding bootcamp?,Career_Guidance
+What is freelance programming like?,Career_Guidance
+How do I decide between frontend and backend?,Career_Guidance
+What are the career growth options for a DevOps engineer?,Career_Guidance
+Is machine learning a stressful career?,Career_Guidance
+How do I explain a gap in my resume?,Career_Guidance
+What industries hire data scientists?,Career_Guidance
+How do I stay motivated when learning to code?,Career_Guidance
+What does a systems analyst do?,Career_Guidance
+Is a master's degree worth it for AI?,Career_Guidance
+How do I prepare for a career change?,Career_Guidance
+What are the daily tasks of a UI designer?,Career_Guidance
+How can I improve my technical writing skills?,Career_Guidance
+What is the market demand for mobile developers?,Career_Guidance
+Should I learn full-stack development?,Career_Guidance
+What are the benefits of open-source contributions for my career?,Career_Guidance
+How do I ask for a promotion?,Career_Guidance
+What is the difference between a junior and senior developer?,Career_Guidance
+How do I balance learning new tech with my job?,Career_Guidance
+What is a technical product manager?,Career_Guidance
+How do I find entry-level tech jobs?,Career_Guidance
+What skills are needed for a solution architect?,Career_Guidance
+Is blockchain a good career choice?,Career_Guidance
+How do I negotiate my first salary?,Career_Guidance
+What does a scrum master do?,Career_Guidance
+How do I transition into technical management?,Career_Guidance
+What are the pros and cons of working at a startup?,Career_Guidance
+How do I plan my 5-year career goal?,Career_Guidance
+How do I prepare for a software engineering interview?,Interview_Preparation
+What are common behavioral interview questions?,Interview_Preparation
+How should I explain my projects in an interview?,Interview_Preparation
+What is the STAR method for interviews?,Interview_Preparation
+How do I prepare for a coding test?,Interview_Preparation
+What should I wear to a tech interview?,Interview_Preparation
+How do I answer tell me about yourself?,Interview_Preparation
+What questions should I ask the interviewer?,Interview_Preparation
+How do I solve a technical problem if I get stuck?,Interview_Preparation
+What is a system design interview?,Interview_Preparation
+How long should a technical resume be?,Interview_Preparation
+What are popular LeetCode questions for beginners?,Interview_Preparation
+How do I handle SQL interview questions?,Interview_Preparation
+What is a mock interview?,Interview_Preparation
+How do I explain my weaknesses in an interview?,Interview_Preparation
+What should I do after a job interview?,Interview_Preparation
+How do I prepare for a machine learning interview?,Interview_Preparation
+What do interviewers look for in a portfolio?,Interview_Preparation
+How do I talk about a failed project?,Interview_Preparation
+What is an HR interview round like?,Interview_Preparation
+How do I practice object-oriented design questions?,Interview_Preparation
+How do I handle high-pressure questions?,Interview_Preparation
+What are common data structure interview questions?,Interview_Preparation
+How can I improve my coding speed for tests?,Interview_Preparation
+How do I explain data normalization in an interview?,Interview_Preparation
+What should I include in my resume summary?,Interview_Preparation
+How do I answer questions about salary expectations?,Interview_Preparation
+What is a phone screening interview?,Interview_Preparation
+How do I prepare for a data analyst interview?,Interview_Preparation
+How do I explain the time complexity of an algorithm?,Interview_Preparation
+What are common JavaScript interview questions?,Interview_Preparation
+How do I stand out in a group interview?,Interview_Preparation
+What is a take-home assignment?,Interview_Preparation
+How do I handle a case study interview?,Interview_Preparation
+What are common Python interview questions?,Interview_Preparation
+How do I explain abstract concepts to a non-tech interviewer?,Interview_Preparation
+How far back should my resume go?,Interview_Preparation
+How do I talk about conflict with a coworker?,Interview_Preparation
+What are common cloud computing interview questions?,Interview_Preparation
+How do I prepare for an internship interview?,Interview_Preparation
+What is a culture fit interview?,Interview_Preparation
+How do I handle a live coding round?,Interview_Preparation
+What are common OOP interview questions?,Interview_Preparation
+How do I talk about my leadership experience?,Interview_Preparation
+What are common database design questions?,Interview_Preparation
+How do I follow up on a job application?,Interview_Preparation
+What are common networking interview questions?,Interview_Preparation
+How do I explain why I want to leave my current job?,Interview_Preparation
+What should I review the night before an interview?,Interview_Preparation
+How do I handle brain teaser interview questions?,Interview_Preparation
+What is the capital of France?,General_Knowledge
+Who wrote Romeo and Juliet?,General_Knowledge
+How many planets are in our solar system?,General_Knowledge
+What is the largest ocean on Earth?,General_Knowledge
+Who discovered gravity?,General_Knowledge
+What is the currency of Japan?,General_Knowledge
+Which country is known as the Land of the Rising Sun?,General_Knowledge
+What is the tallest mountain in the world?,General_Knowledge
+Who painted the Mona Lisa?,General_Knowledge
+What is the chemical symbol for water?,General_Knowledge
+How many days are in a leap year?,General_Knowledge
+Which planet is known as the Red Planet?,General_Knowledge
+Who was the first person to walk on the moon?,General_Knowledge
+What is the largest country by land area?,General_Knowledge
+How many bones are in the adult human body?,General_Knowledge
+What is the hardest natural substance on Earth?,General_Knowledge
+Who invented the telephone?,General_Knowledge
+What is the capital of Japan?,General_Knowledge
+Which animal is the largest mammal?,General_Knowledge
+What is the primary language spoken in Brazil?,General_Knowledge
+How many continents are there?,General_Knowledge
+What gas do humans need to breathe to survive?,General_Knowledge
+Who was the first president of the United States?,General_Knowledge
+What is the main ingredient in chocolate?,General_Knowledge
+Which ocean is between Europe and America?,General_Knowledge
+What is the smallest country in the world?,General_Knowledge
+How many colors are in a rainbow?,General_Knowledge
+What is the capital of the United Kingdom?,General_Knowledge
+Who wrote the Odyssey?,General_Knowledge
+What is the fastest land animal?,General_Knowledge
+Which element has the atomic number 1?,General_Knowledge
+What is the longest river in the world?,General_Knowledge
+Who is the author of Harry Potter?,General_Knowledge
+What is the capital of Australia?,General_Knowledge
+Which country hosts the Eiffel Tower?,General_Knowledge
+What is the largest organ in the human body?,General_Knowledge
+How many states are in the United States?,General_Knowledge
+What is the freezing point of water in Celsius?,General_Knowledge
+Who invented the light bulb?,General_Knowledge
+What instrument is used to measure temperature?,General_Knowledge
+What is the national bird of the United States?,General_Knowledge
+Which ancient civilization built the pyramids?,General_Knowledge
+What is the capital of Canada?,General_Knowledge
+How many hours are in a day?,General_Knowledge
+What is the square root of 81?,General_Knowledge
+Which continent is the South Pole located on?,General_Knowledge
+What language is spoken in Mexico?,General_Knowledge
+Who discovered America?,General_Knowledge
+What is the currency of the United Kingdom?,General_Knowledge
+What is the largest desert in the world?,General_Knowledge
+Hello how are you today?,Other
+Can you tell me a funny joke?,Other
+What is the weather like right now?,Other
+Do you like music?,Other
+What is your favorite color?,Other
+Tell me something about your day.,Other
+How was your weekend?,Other
+Can you recommend a good movie?,Other
+Knock knock who is there?,Other
+I am feeling a bit tired today.,Other
+What do you think about humans?,Other
+Good morning friend.,Other
+What should I eat for dinner tonight?,Other
+Do you believe in ghosts?,Other
+Tell me a riddle.,Other
+Hi there nice to meet you.,Other
+What are your hobbies?,Other
+Is it going to rain tomorrow?,Other
+What is your opinion on art?,Other
+I had a great day today.,Other
+Do you have any pets?,Other
+What is your favorite food?,Other
+Hey buddy what are you doing?,Other
+Can you make me laugh?,Other
+What is the meaning of life?,Other
+I love playing video games.,Other
+Do you enjoy reading books?,Other
+How is life treating you?,Other
+What do you think of this weather?,Other
+Tell me a fun fact about cats.,Other
+Good evening to you.,Other
+What is your favorite movie genre?,Other
+"I am bored let us talk.,",Other
+Do you prefer coffee or tea?,Other
+What are your plans for the weekend?,Other
+That is a really cool story.,Other
+Where would you go on vacation?,Other
+What is your favorite song?,Other
+I am happy today.,Other
+Do you like sports?,Other
+Can you tell me a bedtime story?,Other
+It is a beautiful day outside.,Other
+What do you think about fashion?,Other
+What is your favorite season?,Other
+I need some movie recommendations.,Other
+How are you doing this evening?,Other
+Tell me a short joke about computers.,Other
+What is your dream destination?,Other
+I am going for a walk now.,Other
+Have a wonderful day ahead!,Other
+
+
+Hello there!,Other
+"Good morning, how are you?",Other
+Hey! What's up?,Other
+"Hi, nice to meet you.",Other
+"Good evening, hope you had a great day.",Other
+How is your day going so far?,Other
+What are you up to right now?,Other
+Tell me a funny joke.,Other
+Do you know any good riddles?,Other
+"Make me laugh, please.",Other
+What is your absolute favorite movie?,Other
+Can you recommend a good comedy film?,Other
+Have you seen any good shows lately?,Other
+Who is your favorite actor?,Other
+What kind of music do you like to listen to?,Other
+Who is your favorite musical artist?,Other
+Can you suggest a relaxing song?,Other
+Do you prefer pop music or rock music?,Other
+What is your name?,Other
+Who exactly are you?,Other
+Where do you live?,Other
+How old are you?,Other
+Do you have any siblings?,Other
+What is your favorite color?,Other
+Do you have any pets?,Other
+Are you a cat person or a dog person?,Other
+I am feeling really happy today!,Other
+I had a pretty rough day today.,Other
+I feel a bit tired right now.,Other
+That makes me so excited!,Other
+"I'm feeling a bit bored, to be honest.",Other
+What did you eat for breakfast today?,Other
+What is your favorite food?,Other
+Do you prefer cooking at home or eating out?,Other
+How is the weather outside right now?,Other
+Do you prefer sunny days or rainy days?,Other
+What is your favorite season of the year?,Other
+What are your plans for the weekend?,Other
+How do you usually relax after a long day?,Other
+Do you enjoy reading books?,Other
+What is the last book you read?,Other
+Where would you go on your dream vacation?,Other
+Do you prefer the beach or the mountains?,Other
+What hobbies do you enjoy doing?,Other
+Do you play any sports?,Other
+Who is your favorite athlete?,Other
+What is your favorite holiday?,Other
+How do you usually celebrate your birthday?,Other
+What is your favorite childhood memory?,Other
+Do you believe in ghosts?,Other
+What is your favorite flavor of ice cream?,Other
+Do you prefer coffee or tea in the morning?,Other
+What is the most beautiful place you have ever seen?,Other
+Can you tell me a random interesting fact?,Other
+What is your favorite time of the day?,Other
+Do you like to wake up early or stay up late?,Other
+What is your favorite fruit?,Other
+Do you prefer sweet or savory snacks?,Other
+What is the best gift you have ever received?,Other
+"If you could have any superpower, what would it be?",Other
+What is your favorite board game?,Other
+Do you like going to amusement parks?,Other
+What is your favorite animal?,Other
+Have you ever been to a zoo?,Other
+What is your favorite type of flower?,Other
+Do you enjoy gardening?,Other
+What is your favorite dessert?,Other
+Do you prefer pizza or burgers?,Other
+What is your favorite restaurant?,Other
+Do you like to go shopping?,Other
+What is your favorite clothing brand?,Other
+Do you prefer casual or formal clothes?,Other
+What is your favorite type of shoes?,Other
+Do you like to watch sports on TV?,Other
+What is your favorite team?,Other
+Have you ever been to a concert?,Other
+What is the best concert you have ever attended?,Other
+Do you like to dance?,Other
+What is your favorite type of dance?,Other
+Do you enjoy singing?,Other
+What is your favorite song to sing?,Other
+Do you play any musical instruments?,Other
+What instrument would you like to learn?,Other
+Do you like to paint or draw?,Other
+What is your favorite type of art?,Other
+Have you ever been to an art museum?,Other
+What is your favorite museum?,Other
+Do you like to watch documentaries?,Other
+What is your favorite documentary?,Other
+Do you enjoy watching reality TV shows?,Other
+What is your favorite reality TV show?,Other
+Do you like to play video games?,Other
+What is your favorite video game?,Other
+Do you prefer playing games alone or with friends?,Other
+What is your favorite board game to play with family?,Other
+Do you like to do puzzles?,Other
+What is your favorite type of puzzle?,Other
+Do you enjoy solving crosswords?,Other
+What is your favorite outdoor activity?,Other
+Do you like to go hiking?,Other
+Hi,Other
+Hello,Other
+Good morning,Other
+Who are you?,Other
+What is your name?,Other
+How are you?,Other
+Main kaun hu?,Other
+Ram kaun the?,Other
+Tell me a joke,Other
+Recommend a movie,Other
+Hey there,Other
+Good evening,Other
+Good afternoon,Other
+"Hi, how's it going?",Other
+What's up?,Other
+"Yo, what is happening?",Other
+How are you doing today?,Other
+"Hello, nice to meet you.",Other
+Is anyone there?,Other
+How is your day going?,Other
+What are you doing?,Other
+"I'm bored, talk to me.",Other
+Can we chat for a bit?,Other
+Tell me something interesting.,Other
+How old are you?,Other
+Where are you from?,Other
+Do you have any hobbies?,Other
+What is your favorite color?,Other
+Are you a human?,Other
+Do you have a family?,Other
+Where do you live?,Other
+What makes you happy?,Other
+What is your favorite food?,Other
+Do you like animals?,Other
+Do you have any pets?,Other
+Are you a boy or a girl?,Other
+"I am feeling really sad today, can you cheer me up?",Other
+"I had an amazing day, I'm so happy!",Other
+I am so tired right now.,Other
+I feel bored.,Other
+"That makes me angry, honestly.",Other
+I am scared of the dark.,Other
+I feel so excited for the weekend!,Other
+"I am feeling lonely tonight, let's talk.",Other
+I am stressed out.,Other
+I feel full after that heavy dinner.,Other
+What's the weather like today?,Other
+Do you prefer coffee or tea?,Other
+What did you have for breakfast?,Other
+Are you a morning person or a night owl?,Other
+What are your plans for tomorrow?,Other
+How do you pass the time?,Other
+What is your favorite season?,Other
+Do you like rainy days?,Other
+"I'm going for a walk, see ya.",Other
+What is the time right now?,Other
+Do you prefer the beach or the mountains?,Other
+What is your favorite holiday?,Other
+How do you celebrate your birthday?,Other
+Do you like to travel?,Other
+What is your favorite movie of all time?,Other
+Can you suggest a good comedy film?,Other
+Who is your favorite actor?,Other
+Have you seen any good web series lately?,Other
+Do you like horror movies?,Other
+What kind of music do you listen to?,Other
+Who is your favorite singer?,Other
+Can you recommend a relaxing song?,Other
+Do you like rock music?,Other
+What is the best concert you have ever been to?,Other
+Do you play any musical instruments?,Other
+What is your favorite book?,Other
+Do you like watching sports?,Other
+Who is your favorite athlete?,Other
+Do you play video games?,Other
+Can you tell me a funny riddle?,Other
+Make me laugh right now.,Other
+Do you know a good dad joke?,Other
+Tell me another joke.,Other
+Why did the chicken cross the road?,Other
+Kya chal raha hai?,Other
+Aapka naam kya hai?,Other
+"Tum kaun ho, bhai?",Other
+Mujhe ek kahani sunao.,Other
+Ek achha sa gaana batao.,Other
+Aaj mausam kaisa hai?,Other
+Mujhe bhookh lagi hai.,Other
+"Aap kaha rehte ho?",Other
+Chalo thoda baat karte hain.,Other
+Aaj ka din kaisa tha?,Other
+"Hello friend, how are you?",Other
+"Long time, no see!",Other
+"Hey buddy, what's new?",Other
+Just dropping by to say hi.,Other
+Hope you are having a wonderful day.,Other
+How's everything at your end?,Other
+What's the gossip today?,Other
+Tell me a secret.,Other
+Do you believe in aliens?,Other
+What is your biggest fear?,Other
+Do you like stargazing?,Other
+What is the meaning of life?,Other
+"If you had one wish, what would it be?",Other
+Do you prefer sweet or savory food?,Other
+What is your favorite dessert?,Other
+Do you know how to cook?,Other
+"I love pizza, what about you?",Other
+Do you like spicy food?,Other
+What is your favorite fruit?,Other
+Have you ever tried sushi?,Other
+Do you like ice cream?,Other
+"I'm drinking a smoothie right now.",Other
+What is your favorite clothing brand?,Other
+Do you prefer casual or formal clothes?,Other
+"I bought new shoes today, they look great.",Other
+Do you like shopping?,Other
+What color is your outfit today?,Other
+Do you like winter season?,Other
+"It is pouring outside, I love it.",Other
+Do you prefer sunrise or sunset?,Other
+Where did you go for your last vacation?,Other
+Have you ever seen snow?,Other
+What is your favorite city?,Other
+Do you like amusement parks?,Other
+"I want to go to the beach this weekend, hopefully.",Other
+What is your favorite action movie?,Other
+Do you like watching documentaries?,Other
+Who is your favorite superhero?,Other
+Have you ever watched an anime?,Other
+What is your favorite pop song?,Other
+Do you like jazz music?,Other
+Can you dance?,Other
+Do you like singing in the shower?,Other
+What is your favorite musical band?,Other
+Do you play board games?,Other
+Do you like playing chess?,Other
+"I am watching a football match right now, so exciting.",Other
+Do you like swimming?,Other
+Have you ever tried trekking?,Other
+Do you prefer fiction or non-fiction books?,Other
+"I am reading a romantic novel, it's pretty nice.",Other
+Can you paint or draw?,Other
+Do you like visiting museums?,Other
+What is your favorite memory from childhood?,Other
+"I miss my school friends, honestly.",Other
+"I got a new puppy today, he is so cute.",Other
+Do you like cats?,Other
+"My pet parrot talks a lot, it is funny.",Other
+What is your favorite wild animal?,Other
+What is machine learning?,AI_ML
+What is deep learning?,AI_ML
+How does a neural network work?,AI_ML
+What is reinforcement learning?,AI_ML
+What is transfer learning?,AI_ML
+What is overfitting in machine learning?,AI_ML
+What is the difference between AI and ML?,AI_ML
+How do large language models work?,AI_ML
+What is feature engineering?,AI_ML
+What is computer vision?,AI_ML
+What is natural language processing?,AI_ML
+Explain supervised learning with an example.,AI_ML
+What is the difference between supervised and unsupervised learning?,AI_ML
+How do you fix overfitting in a model?,AI_ML
+What is underfitting and how do you prevent it?,AI_ML
+What is a convolutional neural network used for?,AI_ML
+How does a recurrent neural network handle sequential data?,AI_ML
+What is the difference between classification and regression?,AI_ML
+How does K-means clustering work?,AI_ML
+What are the main metrics for evaluating a classification model?,AI_ML
+Explain precision and recall in machine learning.,AI_ML
+What is an F1 score and why is it important?,AI_ML
+How do you split data into training and testing sets?,AI_ML
+What is cross-validation in model evaluation?,AI_ML
+What is generative AI?,AI_ML
+How do transformers work in NLP?,AI_ML
+What is an activation function in a neural network?,AI_ML
+Why is ReLU used so often in deep learning?,AI_ML
+What is gradient descent and how does it optimize a model?,AI_ML
+Explain the concept of backpropagation.,AI_ML
+What is the difference between L1 and L2 regularization?,AI_ML
+How does a decision tree algorithm make splits?,AI_ML
+What is a random forest classifier?,AI_ML
+How do ensemble methods improve machine learning performance?,AI_ML
+What is gradient boosting?,AI_ML
+Explain how support vector machines work.,AI_ML
+What is a confusion matrix?,AI_ML
+How do you calculate the ROC-AUC score?,AI_ML
+What is hyperparameter tuning?,AI_ML
+How does grid search differ from random search?,AI_ML
+What is the role of a loss function in training?,AI_ML
+Explain mean squared error in regression.,AI_ML
+What is cross-entropy loss?,AI_ML
+What is tokenization in NLP?,AI_ML
+How do word embeddings represent text numerically?,AI_ML
+What is the difference between Word2Vec and BERT?,AI_ML
+How do large language models generate text?,AI_ML
+What is prompt engineering in generative AI?,AI_ML
+What is retrieval-augmented generation?,AI_ML
+How do you fine-tune a pre-trained LLM?,AI_ML
+What is a generative adversarial network?,AI_ML
+How do diffusion models generate realistic images?,AI_ML
+What is object detection in computer vision?,AI_ML
+How does image segmentation work?,AI_ML
+What is the purpose of data augmentation?,AI_ML
+Why do we scale or normalize features before training?,AI_ML
+What is the difference between normalization and standardization?,AI_ML
+How do you handle missing values in a machine learning dataset?,AI_ML
+What is the curse of dimensionality?,AI_ML
+How does principal component analysis reduce dimensions?,AI_ML
+What is one-hot encoding and when should it be used?,AI_ML
+What is an encoder-decoder architecture?,AI_ML
+How does the attention mechanism improve translation models?,AI_ML
+What is a Markov decision process in reinforcement learning?,AI_ML
+Explain exploration vs exploitation in RL.,AI_ML
+What is Q-learning?,AI_ML
+How does deep reinforcement learning differ from standard RL?,AI_ML
+What is a recommendation system and how does it work?,AI_ML
+Explain collaborative filtering vs content-based filtering.,AI_ML
+What is time series forecasting in machine learning?,AI_ML
+How do autoencoders work for anomaly detection?,AI_ML
+What is the difference between batch gradient descent and SGD?,AI_ML
+What causes vanishing gradients in deep neural networks?,AI_ML
+How does batch normalization speed up training?,AI_ML
+What is dropout regularization in deep learning?,AI_ML
+How do you choose the right learning rate for a model?,AI_ML
+What is the purpose of an early stopping criteria?,AI_ML
+Explain the bias-variance tradeoff.,AI_ML
+What is a logistic regression model?,AI_ML
+How does naive Bayes classification work?,AI_ML
+What is hierarchical clustering?,AI_ML
+How do you evaluate an unsupervised clustering model?,AI_ML
+What is the silhouette score in clustering?,AI_ML
+Explain the difference between parameters and hyperparameters.,AI_ML
+What is zero-shot learning?,AI_ML
+How does few-shot prompting work with LLMs?,AI_ML
+What is sentiment analysis in NLP?,AI_ML
+How do you build a named entity recognition system?,AI_ML
+What is text summarization in artificial intelligence?,AI_ML
+How do optical character recognition systems process text from images?,AI_ML
+What is facial recognition and how does it map features?,AI_ML
+How do self-driving cars use computer vision?,AI_ML
+What is an AI agent?,AI_ML
+How does reinforcement learning from human feedback work?,AI_ML
+What is artificial general intelligence?,AI_ML
+What are the limitations of modern large language models?,AI_ML
+Why do LLMs experience hallucinations?,AI_ML
+How do you measure the perplexity of a language model?,AI_ML
+What is a linear regression model?,AI_ML
+How do you handle imbalanced datasets in classification?,AI_ML
+What is SMOTE and how does it help with class imbalance?,AI_ML
+Explain the difference between a validation set and a test set.,AI_ML
+What is transfer learning in computer vision?,AI_ML
+How do pre-trained models save training time?,AI_ML
+What is a residual network and why does it have skip connections?,AI_ML
+What is the difference between a dense layer and a convolutional layer?,AI_ML
+How does pooling work in a CNN?,AI_ML
+What is a long short-term memory network?,AI_ML
+Why are gated recurrent units preferred over traditional RNNs?,AI_ML
+What is machine translation?,AI_ML
+How do voice assistants use speech-to-text algorithms?,AI_ML
+What is synthetic data generation?,AI_ML
+How does AI identify fraud in banking applications?,AI_ML
+What is predictive maintenance in industrial AI?,AI_ML
+How is machine learning used in healthcare diagnostics?,AI_ML
+What is a multi-layer perceptron?,AI_ML
+Explain the concept of a latent space in generative models.,AI_ML
+What is variational autoencoder?,AI_ML
+How do you deploy a machine learning model to production?,AI_ML
+What is model drift and how do you monitor it?,AI_ML
+What is the difference between data drift and concept drift?,AI_ML
+How do you interpret machine learning models using SHAP values?,AI_ML
+What is LIME in model explainability?,AI_ML
+Explain the k-nearest neighbors algorithm.,AI_ML
+What is the difference between Ridge and Lasso regression?,AI_ML
+How does a cost function differ from a loss function?,AI_ML
+What is the Softmax activation function used for?,AI_ML
+Why is data preprocessing so crucial in an ML pipeline?,AI_ML
+What is feature selection and how does it differ from feature extraction?,AI_ML
+How do wrapper methods for feature selection work?,AI_ML
+What is a filter method in feature engineering?,AI_ML
+Explain the term label encoding.,AI_ML
+What is a vector database and why do LLMs need one?,AI_ML
+How do semantic search engines use machine learning?,AI_ML
+What is cosine similarity and how is it used in NLP?,AI_ML
+What is the purpose of fine-tuning a BERT model?,AI_ML
+How do deep learning models perform style transfer on images?,AI_ML
+What is video object tracking in computer vision?,AI_ML
+How do reinforcement learning algorithms use reward functions?,AI_ML
+What is policy gradient in reinforcement learning?,AI_ML
+Explain the difference between model-based and model-free RL.,AI_ML
+What is autonomous learning?,AI_ML
+How do neural networks handle multi-class classification?,AI_ML
+What is the difference between binary and multi-class classification?,AI_ML
+Explain Root Mean Squared Error in regression evaluation.,AI_ML
+What is R-squared in statistical machine learning?,AI_ML
+How do you prevent data leakage during model training?,AI_ML
+What is stratified k-fold cross-validation?,AI_ML
+Why does a model underfit when it is too simple?,AI_ML
+How does increasing model complexity impact variance?,AI_ML
+What are the applications of computer vision in retail?,AI_ML
+What is a pointer in C and how do you use it?,Programming
+Explain the difference between a list and a tuple in Python.,Programming
+How does method overloading differ from method overriding in Java?,Programming
+What is a memory leak and how can it be prevented?,Programming
+How do you implement a singleton pattern in C#?,Programming
+What is the purpose of the virtual keyword in C++?,Programming
+Explain the concept of asynchronous programming using async/await.,Programming
+How does garbage collection work in modern programming languages?,Programming
+What is the difference between interface and abstract class?,Programming
+How do you reverse a linked list in place?,Programming
+What is the time complexity of searching in a binary search tree?,Programming
+How does a hash map handle collisions internally?,Programming
+Explain the difference between deep copy and shallow copy.,Programming
+What is a lambda expression and when should you use it?,Programming
+How do closures work in JavaScript?,Programming
+What is the purpose of the global interpreter lock in Python?,Programming
+How do you handle exceptions properly in Java?,Programming
+What is the difference between stack and heap memory allocation?,Programming
+How do you implement a binary search algorithm recursively?,Programming
+What is dependency injection and why is it useful?,Programming
+Explain the concept of object-oriented programming encapsulation.,Programming
+How does polymorphism work in runtime execution?,Programming
+What is the difference between public, private, and protected modifiers?,Programming
+How do you write a thread-safe class in Java?,Programming
+What is a deadlock and how do you avoid it in multithreading?,Programming
+Explain the use of the map, filter, and reduce functions.,Programming
+How does the event loop work in Node.js?,Programming
+What is a promise in JavaScript and how does it resolve?,Programming
+How do you merge two sorted arrays without extra space?,Programming
+What is the difference between a stable and unstable sorting algorithm?,Programming
+How does quicksort select its pivot for optimal performance?,Programming
+What is a decorator in Python and how do you create one?,Programming
+Explain the difference between macro and function in C.,Programming
+How do you detect a cycle in a directed graph?,Programming
+What is the purpose of the final keyword in Java?,Programming
+How does a structural type system differ from nominal typing?,Programming
+What is reflection in programming and what are its risks?,Programming
+How do you implement a queue using two stacks?,Programming
+What is the difference between dynamic binding and static binding?,Programming
+How does string immutability work in Java and C#?,Programming
+Explain the concept of functional programming immutability.,Programming
+What is a generator function in Python?,Programming
+How do you find the lowest common ancestor in a binary tree?,Programming
+What is the use of bitwise operators in low-level programming?,Programming
+How does the MVC architecture pattern separate concerns?,Programming
+What is a higher-order function in JavaScript?,Programming
+How do you parse a JSON string without using built-in libraries?,Programming
+What is the purpose of a constructor in object-oriented programming?,Programming
+Explain the differences between SQL and NoSQL database queries programmatically.,Programming
+How do you check if a string is a palindrome efficiently?,Programming
+How do you optimize a slow database query using indexes?,Data_Science
+What is the difference between a left join and an inner join?,Data_Science
+Explain the difference between structured and unstructured data.,Data_Science
+What is a data warehouse and how does it differ from a data lake?,Data_Science
+How do you identify and handle outliers in a dataset?,Data_Science
+What is data normalization and why is it necessary before analysis?,Data_Science
+Explain the concept of exploratory data analysis.,Data_Science
+What is an entity-relationship diagram used for?,Data_Science
+How does a star schema differ from a snowflake schema in data modeling?,Data_Science
+What is the purpose of data profiling?,Data_Science
+Explain the difference between OLAP and OLTP systems.,Data_Science
+How do you handle missing values in a data pipeline?,Data_Science
+What is the role of an ETL developer?,Data_Science
+How do you write a window function in SQL?,Data_Science
+What is the difference between WHERE and HAVING clauses in SQL?,Data_Science
+Explain the concept of data provenance and lineage.,Data_Science
+What is a dimensional table in data warehousing?,Data_Science
+How do you clean a dataset with inconsistent text formatting?,Data_Science
+What is the purpose of data masking and anonymization?,Data_Science
+Explain how a database index improves read performance.,Data_Science
+What is a partition in a large database table?,Data_Science
+How do you perform a market basket analysis using transactional data?,Data_Science
+What is the difference between a primary key and a foreign key?,Data_Science
+How do you aggregate data hourly from timestamped log files?,Data_Science
+What is schema-on-read versus schema-on-write?,Data_Science
+Explain the purpose of the GROUP BY clause in data aggregation.,Data_Science
+How do you merge two large datasets based on a common key?,Data_Science
+What is data redundancy and how does normalization reduce it?,Data_Science
+How do you detect duplicate records in a customer database?,Data_Science
+What is a non-clustered index in SQL?,Data_Science
+Explain the concept of ACID properties in database transactions.,Data_Science
+How do you use regular expressions for data parsing?,Data_Science
+What is the difference between long and wide data formats?,Data_Science
+How do you implement a slowly changing dimension in a data warehouse?,Data_Science
+What is a data mart and who uses it?,Data_Science
+Explain the concept of a subquery in database management.,Data_Science
+How do you extract data from a semi-structured XML file?,Data_Science
+What is the purpose of a staging area in an ETL process?,Data_Science
+How do you optimize a data pipeline for real-time streaming?,Data_Science
+What is data virtualization?,Data_Science
+Explain the difference between vertical and horizontal scaling in databases.,Data_Science
+How do you calculate a rolling average using database queries?,Data_Science
+What is a composite key in database design?,Data_Science
+How do you automate data quality checks in a production pipeline?,Data_Science
+What is the difference between a view and a materialized view?,Data_Science
+Explain the concept of database sharding.,Data_Science
+How do you handle data drift over time in an analytics system?,Data_Science
+What is metadata and why is it important for data governance?,Data_Science
+How do you structure a relational database for high-write performance?,Data_Science
+What is the purpose of a database transaction log?,Data_Science
+How does blockchain technology secure digital transactions?,Technology
+What is cloud computing and how does infrastructure as a service work?,Technology
+Explain the difference between a router and a switch.,Technology
+How does the Domain Name System resolve web addresses?,Technology
+What is the purpose of a firewall in network security?,Technology
+How does 5G cellular technology differ from 4G?,Technology
+What is the Internet of Things and how do smart devices communicate?,Technology
+Explain the concept of virtualization in modern data centers.,Technology
+How does public key cryptography secure email communication?,Technology
+What is a Content Delivery Network and how does it speed up websites?,Technology
+Explain the difference between HTTP and HTTPS protocols.,Technology
+How does load balancing work for high-traffic websites?,Technology
+What is edge computing and why is it useful?,Technology
+How do solid-state drives store data compared to hard disk drives?,Technology
+What is the purpose of a VPN in internet privacy?,Technology
+Explain how a processor utilizes cache memory for speed.,Technology
+What is the difference between IPv4 and IPv6 network protocols?,Technology
+How do containerization tools like Docker isolate applications?,Technology
+What is serverless architecture and how does it function?,Technology
+How does quantum computing differ fundamentally from classical computing?,Technology
+What is a cyber attack known as a Distributed Denial of Service?,Technology
+Explain the concept of two-factor authentication.,Technology
+How do biometric scanners verify individual identity securely?,Technology
+What is augmented reality and how does it overlay digital info?,Technology
+How does a graphics processing unit differ from a central processing unit?,Technology
+What is the purpose of the open-source software movement?,Technology
+Explain the role of firmware in electronic devices.,Technology
+How do smart contracts execute on a blockchain network?,Technology
+What is the function of an operating system kernel?,Technology
+How does phishing work and how can users identify it?,Technology
+What is the difference between a local area network and a wide area network?,Technology
+How do satellite internet constellations provide global coverage?,Technology
+What is the purpose of a secure sockets layer certificate?,Technology
+Explain how malware infects computer systems via drive-by downloads.,Technology
+What is a ransomware attack and how do organizations recover?,Technology
+How does optical fiber transmit data over long distances?,Technology
+What is the role of an API gateway in microservices architecture?,Technology
+How do wireless mesh networks provide continuous connectivity?,Technology
+What is the difference between symmetric and asymmetric encryption?,Technology
+How do modern browsers render a webpage from HTML files?,Technology
+What is automated backup and why is it critical for business continuity?,Technology
+Explain the concept of digital twins in manufacturing tech.,Technology
+How does a zero-trust security model protect corporate networks?,Technology
+What is the function of a network proxy server?,Technology
+How do near field communication chips enable contactless payments?,Technology
+What is high-availability clustering in IT infrastructure?,Technology
+Explain how over-the-air software updates are deployed to vehicles.,Technology
+What is data center cooling and why is it energy-intensive?,Technology
+How do digital certificates establish trust on the internet?,Technology
+What is a technology stack and how do teams choose one?,Technology
+How do I transition from a non-technical background into software engineering?,Career_Guidance
+What are the most valuable skills for a product manager to develop?,Career_Guidance
+How can I negotiate a higher starting salary for a tech role?,Career_Guidance
+What is the difference between a software engineer and a data engineer career path?,Career_Guidance
+How do I build a professional portfolio website without work experience?,Career_Guidance
+What should I look for when choosing a company culture during a job search?,Career_Guidance
+How can I effectively network on LinkedIn to find unadvertised roles?,Career_Guidance
+What are the pros and cons of working at a startup versus a large corporation?,Career_Guidance
+How do I handle a career gap on my resume when re-entering the workforce?,Career_Guidance
+What strategies can I use to stay updated with rapidly changing technologies?,Career_Guidance
+How do I pivot from QA engineering into a DevOps career path?,Career_Guidance
+What are the signs that it is time to leave your current job?,Career_Guidance
+How can I find a mentor in the tech industry and approach them?,Career_Guidance
+What is the career path of a UX researcher look like?,Career_Guidance
+How do I write a compelling cover letter for an entry-level position?,Career_Guidance
+What are the benefits of obtaining professional cloud certifications?,Career_Guidance
+How can I improve my public speaking skills for technical presentations?,Career_Guidance
+What is the difference between a technical lead and an engineering manager?,Career_Guidance
+How do I prepare for a transition from individual contributor to management?,Career_Guidance
+What strategies help manage workplace stress and prevent burnout?,Career_Guidance
+How do I request a promotion or a title change from my manager?,Career_Guidance
+What is the value of contributing to open-source projects for career growth?,Career_Guidance
+How should I tailor my resume for automated applicant tracking systems?,Career_Guidance
+What are the best practices for remote work productivity and boundary setting?,Career_Guidance
+How do I handle a difficult manager or conflict with a coworker professionally?,Career_Guidance
+What skills are essential to become a successful solutions architect?,Career_Guidance
+How do I transition from freelance development to a full-time corporate role?,Career_Guidance
+What should be included in an engineering manager's resume?,Career_Guidance
+How can I build personal branding as a technical professional?,Career_Guidance
+What is the typical career trajectory for a data analyst?,Career_Guidance
+How do technical bootcamps compare to traditional computer science degrees?,Career_Guidance
+What are informational interviews and how do I schedule them?,Career_Guidance
+How do I manage multi-disciplinary teams as a project manager?,Career_Guidance
+What steps should I take if I am placed on a performance improvement plan?,Career_Guidance
+How can introverts network effectively at industry conferences?,Career_Guidance
+What is the importance of emotional intelligence in leadership roles?,Career_Guidance
+How do I write an effective LinkedIn summary that attracts recruiters?,Career_Guidance
+What skills are required to move from backend web development to mobile development?,Career_Guidance
+How can I balance a full-time job while learning a new technical skill?,Career_Guidance
+What should I do if I feel underqualified for jobs I want to apply for?,Career_Guidance
+How do I decline a job offer professionally after accepting another one?,Career_Guidance
+What are the key differences between contracting work and permanent employment?,Career_Guidance
+How do I explain my reasons for leaving a company after only six months?,Career_Guidance
+What are effective ways to ask for constructive feedback from peers?,Career_Guidance
+How do I structure a 30-60-90 day plan for a new job?,Career_Guidance
+What role do soft skills play in passing technical leadership interviews?,Career_Guidance
+How do I handle a career pivot after age 40 in the tech sector?,Career_Guidance
+What is the difference between mentoring and coaching in professional development?,Career_Guidance
+How do I showcase non-technical project outcomes on an engineering resume?,Career_Guidance
+What are the common mistakes to avoid during an internal transfer interview?,Career_Guidance
+How do you answer the interview question tell me about yourself?,Interview_Preparation
+What is the STAR method for answering behavioral interview questions?,Interview_Preparation
+How should I prepare for a system design interview at a major tech company?,Interview_Preparation
+What are common red flags to look out for during a job interview?,Interview_Preparation
+How do you explain a complex technical concept to a non-technical interviewer?,Interview_Preparation
+What is the best way to handle a coding question when you get stuck?,Interview_Preparation
+How do you structure an answer to walk me through your resume?,Interview_Preparation
+What questions should I ask the interviewer at the end of the conversation?,Interview_Preparation
+How do you handle a behavioral question about a time you failed?,Interview_Preparation
+What is the purpose of a technical screening interview before the onsite?,Interview_Preparation
+How should I dress for a remote video interview versus an in-person interview?,Interview_Preparation
+How do you respond to questions about your salary expectations?,Interview_Preparation
+What is the best approach to solving a dynamic programming question during a live code test?,Interview_Preparation
+How do you handle an interviewer who is unresponsive or critical?,Interview_Preparation
+What should you do immediately after completing a job interview?,Interview_Preparation
+How do you explain a conflict with a teammate during an interview?,Interview_Preparation
+What is the best way to prepare for an object-oriented design interview?,Interview_Preparation
+How do you answer questions about why you want to leave your current employer?,Interview_Preparation
+What details should you focus on when describing a past engineering project?,Interview_Preparation
+How do you demonstrate leadership skills in a non-managerial interview?,Interview_Preparation
+What is the difference between a whiteboarding interview and a take-home assignment?,Interview_Preparation
+How do you answer the question where do you see yourself in five years?,Interview_Preparation
+What should you do if you do not understand the interviewer's question?,Interview_Preparation
+How do you manage interview anxiety and nervousness beforehand?,Interview_Preparation
+What is the best way to explain a gap year or employment gap in person?,Interview_Preparation
+How do you demonstrate company values during an interview process?,Interview_Preparation
+What are the key concepts to review for a database-focused technical interview?,Interview_Preparation
+How do you handle scenario-based questions regarding prioritizing tight deadlines?,Interview_Preparation
+What is the best way to follow up with a recruiter if you haven't heard back?,Interview_Preparation
+How do you prepare for a peer panel interview containing multiple team members?,Interview_Preparation
+What should you include in a post-interview thank you email?,Interview_Preparation
+How do you practice for live architectural whiteboarding sessions?,Interview_Preparation
+What are common mistakes candidates make during behavioral interviews?,Interview_Preparation
+How do you answer why should we hire you over other candidates?,Interview_Preparation
+What is the best way to articulate your coding thought process out loud?,Interview_Preparation
+How do you handle a question regarding a technology you have never used?,Interview_Preparation
+What should you focus on when preparing for a technical startup interview?,Interview_Preparation
+How do you discuss your strengths and weaknesses realistically?,Interview_Preparation
+What is the format of a typical bar raiser interview at Amazon?,Interview_Preparation
+How do you handle counter-offers from your current company during an active interview process?,Interview_Preparation
+What are the primary things an interviewer evaluates during a code review style test?,Interview_Preparation
+How do you answer questions about working under pressure with minimal direction?,Interview_Preparation
+What is the ideal length for an answer to a behavioral interview question?,Interview_Preparation
+How do you discuss project ownership and metrics when you were part of a large team?,Interview_Preparation
+What are best practices for completing a timed online coding assessment?,Interview_Preparation
+How do you prepare for a culture fit interview session?,Interview_Preparation
+What should you do if your code passes all visible test cases but fails hidden ones?,Interview_Preparation
+How do you structure answers regarding managing cross-functional stakeholder disputes?,Interview_Preparation
+What are standard types of questions asked in an executive leadership interview?,Interview_Preparation
+How do you handle an interview invitation extended with very short notice?,Interview_Preparation
+What is the capital city of Australia?,General_Knowledge
+Who wrote the play Romeo and Juliet?,General_Knowledge
+Which planet in our solar system is known as the Red Planet?,General_Knowledge
+What is the largest ocean on Earth?,General_Knowledge
+How many elements are currently listed in the periodic table?,General_Knowledge
+Who was the first person to walk on the moon?,General_Knowledge
+In which year did World War II end?,General_Knowledge
+What is the longest river in the world?,General_Knowledge
+Which country is famous for the invention of paper?,General_Knowledge
+What is the primary language spoken in Brazil?,General_Knowledge
+Who painted the famous artwork known as the Mona Lisa?,General_Knowledge
+What is the smallest country in the world by land area?,General_Knowledge
+How many bones are there in an adult human body?,General_Knowledge
+What is the currency used in Japan?,General_Knowledge
+Which mountain is the tallest above sea level in the world?,General_Knowledge
+Who discovered penicillin in 1928?,General_Knowledge
+What is the hard substance that covers the crown of a tooth?,General_Knowledge
+Which chemical element has the symbol Au?,General_Knowledge
+What is the largest mammal currently living on Earth?,General_Knowledge
+In which country are the ancient Pyramids of Giza located?,General_Knowledge
+Who was the first President of the United States?,General_Knowledge
+What is the deep layer of the Earth located directly beneath the crust?,General_Knowledge
+Which gas do plants absorb from the atmosphere for photosynthesis?,General_Knowledge
+What is the official currency of South Africa?,General_Knowledge
+Who is credited with inventing the telephone?,General_Knowledge
+Which instrument is used to measure atmospheric pressure?,General_Knowledge
+What is the capital city of Canada?,General_Knowledge
+Which layer of the atmosphere protects Earth from harmful ultraviolet rays?,General_Knowledge
+Who wrote the epic novel War and Peace?,General_Knowledge
+What is the largest desert in the world?,General_Knowledge
+Which continuous line divides the Earth into northern and southern hemispheres?,General_Knowledge
+How many colors are visible in a standard rainbow?,General_Knowledge
+Who developed the theory of relativity?,General_Knowledge
+What is the main ingredient used to make traditional chocolate?,General_Knowledge
+Which country hosted the first modern Olympic Games in 1896?,General_Knowledge
+What is the functional unit of life in all living organisms?,General_Knowledge
+Which internal organ produces insulin in the human body?,General_Knowledge
+What is the capital of Italy?,General_Knowledge
+Which document declared the independence of the American colonies in 1776?,General_Knowledge
+Who was the long-serving Prime Minister of the United Kingdom during WWII?,General_Knowledge
+What type of celestial body is the sun?,General_Knowledge
+Which European country is shaped geographically like a boot?,General_Knowledge
+What pigment gives leaves their green color?,General_Knowledge
+Who is the author of the Harry Potter book series?,General_Knowledge
+What is the fast-moving natural phenomenon measured by the Richter scale?,General_Knowledge
+Which specialized branch of science studies birds?,General_Knowledge
+What is the capital city of Japan?,General_Knowledge
+Which famous wall was constructed to keep out invaders from northern China?,General_Knowledge
+What gas makes up the largest percentage of Earth's atmosphere?,General_Knowledge
+Who was the first woman to win a Nobel Prize?,General_Knowledge
